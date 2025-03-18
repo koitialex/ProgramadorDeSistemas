@@ -15,6 +15,7 @@ namespace maioroumenorquedez
         public Form1()
         {
             InitializeComponent();
+           
         }
 
         private void btnVerificar_Click(object sender, EventArgs e)
@@ -23,15 +24,15 @@ namespace maioroumenorquedez
 
             if (numero > 10)
             {
-                MessageBox.Show("O valor é maior que 10","Resultado");
+                MessageBox.Show($"O numero {numero} é maior que 10","Resultado");
             }
             else if(numero == 10)
             {
-                MessageBox.Show("O valor é igual a 10", "Resultado");
+                MessageBox.Show($"O numero {numero} é igual a 10", "Resultado");
             }
             else if (numero < 10)
             {
-                MessageBox.Show("O valor é menor que 10", "Resultado");
+                MessageBox.Show($"O numero {numero} é menor que 10", "Resultado");
             }
             
         }
