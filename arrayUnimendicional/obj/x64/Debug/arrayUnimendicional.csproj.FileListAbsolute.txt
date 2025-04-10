@@ -1,0 +1,10 @@
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\arrayUnimendicional\bin\x64\Debug\arrayUnimendicional.exe.config
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\arrayUnimendicional\bin\x64\Debug\arrayUnimendicional.exe
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\arrayUnimendicional\bin\x64\Debug\arrayUnimendicional.pdb
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\arrayUnimendicional\obj\x64\Debug\arrayUnimendicional.csproj.AssemblyReference.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\arrayUnimendicional\obj\x64\Debug\arrayUnimendicional.frmVetor.resources
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\arrayUnimendicional\obj\x64\Debug\arrayUnimendicional.Properties.Resources.resources
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\arrayUnimendicional\obj\x64\Debug\arrayUnimendicional.csproj.GenerateResource.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\arrayUnimendicional\obj\x64\Debug\arrayUnimendicional.csproj.CoreCompileInputs.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\arrayUnimendicional\obj\x64\Debug\arrayUnimendicional.exe
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\arrayUnimendicional\obj\x64\Debug\arrayUnimendicional.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.csproj.AssemblyReference.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.frmExibirNome.resources
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.Properties.Resources.resources
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.csproj.GenerateResource.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.csproj.CoreCompileInputs.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\ExibirNome\bin\x64\Debug\ExibirNome.exe.config
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\ExibirNome\bin\x64\Debug\ExibirNome.exe
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\ExibirNome\bin\x64\Debug\ExibirNome.pdb
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.exe
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.pdb

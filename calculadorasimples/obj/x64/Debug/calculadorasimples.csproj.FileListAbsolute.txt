@@ -1,0 +1,11 @@
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\bin\x64\Debug\calculadorasimples.exe.config
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\bin\x64\Debug\calculadorasimples.exe
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\bin\x64\Debug\calculadorasimples.pdb
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.AssemblyReference.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.frmCalculadoraSimples.resources
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.Properties.Resources.resources
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.GenerateResource.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.CoreCompileInputs.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.exe
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.pdb
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.frmCalculodeIdade.resources

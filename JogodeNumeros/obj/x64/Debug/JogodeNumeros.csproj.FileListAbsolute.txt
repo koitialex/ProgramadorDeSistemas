@@ -1,0 +1,10 @@
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\JogodeNumeros\bin\x64\Debug\JogodeNumeros.exe.config
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\JogodeNumeros\bin\x64\Debug\JogodeNumeros.exe
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\JogodeNumeros\bin\x64\Debug\JogodeNumeros.pdb
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\JogodeNumeros\obj\x64\Debug\JogodeNumeros.csproj.AssemblyReference.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\JogodeNumeros\obj\x64\Debug\JogodeNumeros.FrmJogodeNumeros.resources
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\JogodeNumeros\obj\x64\Debug\JogodeNumeros.Properties.Resources.resources
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\JogodeNumeros\obj\x64\Debug\JogodeNumeros.csproj.GenerateResource.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\JogodeNumeros\obj\x64\Debug\JogodeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\JogodeNumeros\obj\x64\Debug\JogodeNumeros.exe
+C:\Users\Alex.kishikawa\source\repos\ProgramadorDeSistemas\JogodeNumeros\obj\x64\Debug\JogodeNumeros.pdb
